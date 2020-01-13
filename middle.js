@@ -20,7 +20,5 @@ let middle = function (arrToFind){
   }
 };
 
-
-
 module.exports = middle;
 

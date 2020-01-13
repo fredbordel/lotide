@@ -7,5 +7,5 @@ let findKey = function (object, callback) {
   return;
 };
 
-
+module.exports = findKey;
 
