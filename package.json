@@ -1,7 +1,7 @@
 {
-  "name": "lotide",
+  "name": "@fredbordel/lotide",
   "version": "1.0.0",
-  "description": "",
+  "description": "Lotide library of simple functions, for learning purposes.",
   "main": "assertArraysEqual.js",
   "directories": {
     "test": "tests"
@@ -13,7 +13,7 @@
     "type": "git",
     "url": "git+https://github.com/fredbordel/lotide.git"
   },
-  "author": "",
+  "author": "@fredbordel",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/fredbordel/lotide/issues"
